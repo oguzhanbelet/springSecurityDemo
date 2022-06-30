@@ -1,6 +1,5 @@
 package com.belet.springsecuritydemo.student;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
