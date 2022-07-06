@@ -2,4 +2,4 @@
 Learning Spring Security
 
 
-Spring Security Demo App that gives JWT token
+Basic Spring Security Demo App that gives JWT token
